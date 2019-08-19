@@ -1,0 +1,7 @@
+https://github.com/contentful/the-example-app.nodejs
+// Token auth
+https://github.com/scotch-io/node-token-authentication
+// Social auth
+https://github.com/mjhea0/passport-examples
+// Socket.io
+https://github.com/aerrity/socket-click-example
